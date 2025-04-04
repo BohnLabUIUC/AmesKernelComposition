@@ -14,22 +14,19 @@ Maize (*Zea mays*) kernel composition plays a critical role in diverse industria
 
 - **Germplasm**: 954 inbred lines from the Ames panel  
 - **GWAS**: Mixed linear model (MLM) accounting for genetic relatedness  
-- **GS**: Ridge regression best linear unbiased prediction (**RR-BLUP**) model
+- **GS**:
+  - Ridge regression best linear unbiased prediction (**RR-BLUP**) model
+  - Reproducing Kernel Hilbert Space (**RKHS**)
+  - Random Forest (**RF**)
 
 ## Key Results
 
 - **Significant Associations**: 10 SNPs linked to five kernel quality traits  
 - **Candidate Genes**: Identified in key genomic regions  
 - **Prediction Accuracy (GS)**:
-  - Starch: 0.41  
-  - Fiber: 0.55  
-  - Other traits: Moderate overall
-
+ 
 ## Conclusions
 
-- Identified key loci and candidate genes for kernel quality traits  
-- Demonstrated moderate GS accuracy, supporting its application  
-- Laid groundwork for marker-assisted and genomic selection strategies in maize breeding
 
 
 
